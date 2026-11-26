@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-chroma
+langchain-huggingface
+langchain-text-splitters
+langgraph
+chromadb
+sentence-transformers
+rank-bm25
+pypdf
+python-docx
+groq
